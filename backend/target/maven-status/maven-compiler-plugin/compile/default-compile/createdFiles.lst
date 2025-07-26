@@ -1,0 +1,4 @@
+com\webminix\dto\LoginRequest.class
+com\webminix\WebminixApplication.class
+com\webminix\controller\AuthController.class
+com\webminix\dto\LoginResponse.class
